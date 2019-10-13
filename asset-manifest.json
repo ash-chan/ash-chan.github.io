@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d137cdb7.chunk.css",
+    "main.js": "/static/js/main.24b1fba4.chunk.js",
+    "main.js.map": "/static/js/main.24b1fba4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5749c865.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5749c865.js.map",
+    "static/css/2.640a5393.chunk.css": "/static/css/2.640a5393.chunk.css",
+    "static/js/2.e965721d.chunk.js": "/static/js/2.e965721d.chunk.js",
+    "static/js/2.e965721d.chunk.js.map": "/static/js/2.e965721d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a6fb28a4ca98c8a9caf04de756f0be91.js": "/precache-manifest.a6fb28a4ca98c8a9caf04de756f0be91.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.640a5393.chunk.css.map": "/static/css/2.640a5393.chunk.css.map",
+    "static/css/main.d137cdb7.chunk.css.map": "/static/css/main.d137cdb7.chunk.css.map",
+    "static/media/ChanceZ.png": "/static/media/ChanceZ.527a21aa.png",
+    "static/media/ChancezSite1.png": "/static/media/ChancezSite1.faf3a976.png",
+    "static/media/ChancezSite2.png": "/static/media/ChancezSite2.642ce1ee.png",
+    "static/media/ChancezSite3.png": "/static/media/ChancezSite3.9ec31f05.png",
+    "static/media/ERC721.png": "/static/media/ERC721.c7df426e.png",
+    "static/media/NTU.png": "/static/media/NTU.26e12437.png",
+    "static/media/Port.jpg": "/static/media/Port.91f49c9e.jpg",
+    "static/media/Road.jpg": "/static/media/Road.460bab6c.jpg",
+    "static/media/Sliding.jpg": "/static/media/Sliding.f36d8b8d.jpg",
+    "static/media/Stack.jpg": "/static/media/Stack.1f0021a7.jpg",
+    "static/media/UCB.png": "/static/media/UCB.a8552979.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5749c865.js",
+    "static/css/2.640a5393.chunk.css",
+    "static/js/2.e965721d.chunk.js",
+    "static/css/main.d137cdb7.chunk.css",
+    "static/js/main.24b1fba4.chunk.js"
+  ]
+}

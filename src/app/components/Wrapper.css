@@ -1,0 +1,29 @@
+.wrapper-style {
+    -webkit-transition: background-color 1.0s ease;
+    -moz-transition: background-color 1.0s ease;
+    -o-transition: background-color 1.0s ease;
+    -ms-transition: background-color 0.5s ease;
+    transition: background-color 1.0s ease;
+
+    min-height: 100vh;
+}
+
+/*.nav-panel a[aria-selected="true"] {*/
+/*    text-decoration: underline;*/
+/*}*/
+
+.navbar__link:hover {
+    transform: translateY(-2px);
+}
+
+.navbar__link--active {
+    border-bottom: 3px solid #FFFFFF;
+
+
+}
+
+.page-header {
+    padding-bottom: 9px;
+    margin: 40px 0 20px;
+    border-bottom: 1px solid #eee;
+}

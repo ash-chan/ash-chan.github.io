@@ -1,0 +1,59 @@
+{
+  "homepage": "http://ash-chan.github.io/",
+  "name": "personal-site",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.5.0",
+    "@material-ui/icons": "^4.4.3",
+    "bootstrap": "^4.3.1",
+    "nodemon": "^1.19.3",
+    "react": "^16.2.0",
+    "react-bootstrap": "^1.0.0-beta.14",
+    "react-dom": "^16.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "3.2.0",
+    "react-typist": "^2.0.5",
+    "react-vertical-timeline-component": "^2.5.0",
+    "styled-components": "^2.4.0",
+    "webfontloader": "^1.6.28"
+  },
+  "scripts": {
+    "build": "react-scripts build",
+    "start": "parcel ./src/index.html -p 3000",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build --branch master"
+  },
+  "eslintConfig": {
+    "extends": "react-app",
+    "parserOptions": {
+      "parser": "babel-eslint",
+      "sourceType": "module"
+    },
+    "env": {
+      "browser": true,
+      "es6": true
+    }
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "gh-pages": "^2.1.1",
+    "parcel-bundler": "^1.12.4"
+  }
+}
